@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "109107165136",
+    "project_id": "drift-abc",
+    "storage_bucket": "drift-abc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109107165136:android:119d74649368bb28baebd5",
+        "android_client_info": {
+          "package_name": "com.example.drift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArt_4C8-zL2nw8YwyPpuTOdRHY2gNTTDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
